@@ -1,15 +1,8 @@
 #  Gemma-Fundamentals (Study Jam)
 
-Are you ready to dive into the world of AI and unlock the potential of Google's most advanced AI technologies? Welcome to the **Gemini Era Study Jams!** 
+Ready to explore the future of AI with Google's cutting-edge open models? Dive into the world of Gemma, a family of lightweight, state-of-the-art models built on the same foundation as Gemini.
 
-Through interactive sessions and hands-on coding exercises, you'll learn how to use the Google's gemini-pro and pro vision models to solve a wide range of real-world problems. 
-
-You will learn state-of-the-art prompting techniques to get the most out of these models.
-
-We will also walk you through building an AI system that can query your documents & data using LangChains & the Gemini API.
-
-Join us and unlock the power of Gemini API. Let's unleash the full potential of AI together!
-
+Gemma Study Jams offer interactive sessions and hands-on exercises to equip you with the skills to leverage these powerful tools.
 
 **Target Audience:** Developers with basic Python programming experience and an interest in using large language models (LLMs).
 
